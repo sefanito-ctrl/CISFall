@@ -1,0 +1,9 @@
+Deposit: $150 | New Balance: $150
+Purchase: $40.5 | New Balance: $109.5
+Purchase: $20.25 | New Balance: $89.25
+Deposit: $150 | New Balance: $150
+Purchase: $40.5 | New Balance: $109.5
+Purchase: $20.25 | New Balance: $89.25
+Deposit: $150 | New Balance: $150
+Purchase: $40.5 | New Balance: $109.5
+Purchase: $20.25 | New Balance: $89.25
